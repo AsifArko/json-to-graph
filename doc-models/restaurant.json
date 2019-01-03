@@ -1,0 +1,62 @@
+{
+    "status":"pending",
+    "picture":{
+      "logo":"https://s3-ap-southeast-2.amazonaws.com/aisdevtest/img/417de1d310cca79aa08a8c9ea0abbcf95a1920cbb5a90.jpg"
+    },
+    "cuisine":[
+      {
+        "code":"28",
+        "display":"Italian"
+      },
+      {
+        "code":"6",
+        "display":"Pizza"
+      },
+      {
+        "code":"18",
+        "display":"Salad"
+      },
+      {
+        "code":"2",
+        "display":"Sea Food"
+      },
+      {
+        "code":"9",
+        "display":"Multi-cuisine"
+      },
+      {
+        "code":"36",
+        "display":"BBQ"
+      },
+      {
+        "code":"45",
+        "display":"Meat"
+      },
+      {
+        "code":"5",
+        "display":"Chicken "
+      },
+      {
+        "code":"8",
+        "display":"Pasta"
+      }
+    ],
+    "created_at":"2018-12-24 15:45:55.292867 +0600 +06 m=+7203.951059193",
+    "updated_at":"2018-12-24 15:45:55.292882 +0600 +06 m=+7203.951074138",
+    "title":{
+      "en":"138 East Gulshan 1"
+    },
+    "type":"restaurant",
+    "address":{
+      "division":{
+        "code":"30",
+        "display":"Dhaka"
+      },
+      "district":{
+        "code":"26",
+        "display":"Dhaka"
+      },
+      "street":"House 10, Road 138, Gulshan 1, Dhaka"
+    },
+    "id":"1EG1F9"
+  }

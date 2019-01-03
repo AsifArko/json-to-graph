@@ -1,0 +1,2 @@
+How many restaurants have the samem cuisine ?
+Which cuisines are available in your area find those cuisines and those restaurant ?
