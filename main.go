@@ -98,10 +98,7 @@ func BuildGraph(js []byte, restaurant *pb.RestaurantInfo) {
 
 	bolt, _ := connectiors.GetBoltConnection(cfg)
 
-	for i, v := range cypher {
-		if i >= 10{
-			break
-		}
+	for _, v := range cypher {
 		// Start by creating a node
 		fmt.Println(v)
 		_, err := bolt.Connection.ExecNeo(v, nil)
